@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akhil-Tony
-- 👀 I’m interested in DataScience and Artificial Intelligence
-- 🌱 I’m currently learning Neural Networks
+- 👀 I’m interested in MachineLearning and Artificial Intelligence
+- 🌱 I’m currently ...
 - 📫 Reach me on ....
 
 <!---
