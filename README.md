@@ -1,3 +1,4 @@
 - Data Analyst
-- Machine Learning Enthusiast
 - Full Stack Web Developer
+- Artificial Intelligence Freak
+
