@@ -1,4 +1,4 @@
+- Computer Vision
 - Data Analyst
-- Full Stack Web Developer
-- Artificial Intelligence
+- Web Developer 
 
